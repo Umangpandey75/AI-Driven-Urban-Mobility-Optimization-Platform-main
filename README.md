@@ -1,19 +1,14 @@
-::: {align="center"}
+<div align="center">
+
 # 🚀 NeuroFleetX
 
 ### AI-Driven Urban Mobility Optimization Platform
 
-![Java](https://img.shields.io/badge/Java-17-blue?style=for-the-badge&logo=openjdk)
-![Spring
-Boot](https://img.shields.io/badge/Spring_Boot-3.x-6DB33F?style=for-the-badge&logo=springboot)
-![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-8-orange?style=for-the-badge&logo=mysql)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3-38BDF8?style=for-the-badge&logo=tailwindcss)
-![Node.js](https://img.shields.io/badge/Node.js-18-339933?style=for-the-badge&logo=node.js)
+![Java](https://img.shields.io/badge/Java-17-blue?style=for-the-badge&logo=openjdk) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x-6DB33F?style=for-the-badge&logo=springboot) ![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-8-orange?style=for-the-badge&logo=mysql) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3-38BDF8?style=for-the-badge&logo=tailwindcss) ![Node.js](https://img.shields.io/badge/Node.js-18-339933?style=for-the-badge&logo=node.js)
 
-**Smart Fleet Management • AI Route Optimization • Predictive
-Maintenance • Booking Management**
-:::
+**Smart Fleet Management • AI Route Optimization • Predictive Maintenance • Booking Management**
+
+</div>
 
 ------------------------------------------------------------------------
 
@@ -25,16 +20,15 @@ routing, and predictive vehicle maintenance from a single dashboard.
 
 ## ✨ Features
 
-  Feature                    Description                              Status
-  -------------------------- ---------------------------------------- --------
-  🔐 Authentication          JWT Authentication & Role-based Access   ✅
-  🚚 Fleet Management        Vehicles & Driver Management             ✅
-  📍 Live Tracking           GPS-ready architecture                   ✅
-  🧠 AI Routing              Smart Route Optimization                 ✅
-  🛠 Predictive Maintenance   Vehicle Health Monitoring                ✅
-  📊 Analytics               Fleet Insights Dashboard                 ✅
-  📅 Booking System          Smart Booking & Assignment               ✅
-
+| Feature | Description | Status |
+| :--- | :--- | :---: |
+| 🔐 **Authentication** | JWT Authentication & Role-based Access | ✅ |
+| 🚚 **Fleet Management** | Vehicles & Driver Management | ✅ |
+| 📍 **Live Tracking** | GPS-ready architecture | ✅ |
+| 🧠 **AI Routing** | Smart Route Optimization | ✅ |
+| 🛠 **Predictive Maintenance** | Vehicle Health Monitoring | ✅ |
+| 📊 **Analytics** | Fleet Insights Dashboard | ✅ |
+| 📅 **Booking System** | Smart Booking & Assignment | ✅ |
 ------------------------------------------------------------------------
 
 # 🛠 Tech Stack
@@ -213,18 +207,6 @@ GOOGLE_MAPS_API_KEY=
 
 ------------------------------------------------------------------------
 
-# 📸 Screenshots
-
-Add screenshots here:
-
--   Login
--   Dashboard
--   Fleet
--   Bookings
--   Analytics
--   Driver Panel
-
-------------------------------------------------------------------------
 
 # 🎯 Future Improvements
 
